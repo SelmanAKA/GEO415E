@@ -1,2 +1,2 @@
 # GEO415E
-Geodetic Satellite Lecture Contents
+Geodetic Satellite Homework Contents
